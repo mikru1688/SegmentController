@@ -1,0 +1,62 @@
+{
+  "result": {
+    "section": [
+      "內科",
+      "外科",
+      "小兒科"
+    ],
+    "doctor": [
+      [
+        {
+          "Name": "FrankChen",
+          "Date": "2016/01/01(週一)",
+          "Room": "1診"
+        },
+        {
+          "Name": "PeterLai",
+          "Date": "2016/01/02(週二)",
+          "Room": "3診"
+        },
+        {
+          "Name": "Jsonhen",
+          "Date": "2016/01/03(週三)",
+          "Room": "4診"
+        }
+      ],
+      [
+        {
+          "Name": "FrankChen",
+          "Date": "2016/02/01(週一)",
+          "Room": "4診"
+        },
+        {
+          "Name": "PeterLai",
+          "Date": "2016/02/02(週二)",
+          "Room": "3診"
+        },
+        {
+          "Name": "Jsonhen",
+          "Date": "2016/02/03(週三)",
+          "Room": "2診"
+        }
+      ],
+      [
+        {
+          "Name": "FrankChen",
+          "Date": "2016/05/01(週一)",
+          "Room": "3診"
+        },
+        {
+          "Name": "PeterLai",
+          "Date": "2016/05/02(週二)",
+          "Room": "2診"
+        },
+        {
+          "Name": "Jsonhen",
+          "Date": "2016/05/03(週三)",
+          "Room": "1診"
+        }
+      ]
+    ]
+  }
+}
